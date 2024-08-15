@@ -12,3 +12,6 @@
 `GET /works/database/:databaseId`
 
 데이터베이스의 내용이 포함되어있음 (표/보드/갤러리/리스트 등등)
+
+## 관련
+[프론트 repository](https://github.com/atheimuz/notion)
